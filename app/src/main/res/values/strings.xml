@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dial</string>
+    <string name="signup_form">signup_form</string>
+    <string name="name">name</string>
+    <string name="email_id">email_id</string>
+    <string name="phone">phone</string>
+    <string name="state">state</string>
+    <string name="city">city</string>
+    <string name="submit">submit</string>
+</resources>
